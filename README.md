@@ -1,4 +1,4 @@
-# Linux Phone – Site e-commerce
+# Site e-commerce
 
 Ce projet est un site web de e-commerce dédié aux téléphones fonctionnant sous Linux (Librem, PinePhone, Volla, Fairphone, etc.). L’objectif était de concevoir une interface moderne, fluide et agréable à
 utiliser, en travaillant uniquement avec du HTML, du CSS et du JavaScript.  
